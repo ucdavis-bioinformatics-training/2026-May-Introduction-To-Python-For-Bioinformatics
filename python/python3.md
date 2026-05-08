@@ -2,15 +2,15 @@
 
 Flow control is the bread and butter of programming. It is how you can program different paths for the program to take or to loop through a task many times. Let's create a new file for this section, "flow_control.py".
 
-## If,elif,else statements
+## if,elif,else statements
 
-- An "If statement" is a programming construct that allows you to execute code based on if a condition is met.
+- An "if statement" is a programming construct that allows you to execute code based on if a condition is met.
 
-- If, elif (else if), and else statements are used in python to control what happens based on the circumstance of one or more events:
-    +  <img src="figures/IF.png" alt="if flow" width="600px"/>
+- if, elif (else if), and else statements are used in python to control what happens based on the circumstance of one or more events:
+<img src="figures/IF.png" alt="if flow" width="600px"/>
 
 - The following are valid orders of statements. In both scenarios where elif is, as many elif statements can be there as desired.
-    +  <img src="figures/92a150bb.png" alt="if flow" width="600px"/>
+<img src="figures/92a150bb.png" alt="if flow" width="600px"/>
 
 \*\*\***INDENTATION MATTERS!!!**\*\*\*
 
