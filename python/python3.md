@@ -6,7 +6,7 @@ Flow control is the bread and butter of programming. It is how you can program d
 
 - An "if statement" is a programming construct that allows you to execute code based on if a condition is met.
 
-- if, elif (else if), and else statements are used in python to control what happens based on the circumstance of one or more events:
+- if, elif (else if), and else statements are used in python to control what happens based on the circumstance of one or more events. The "body" of an if/elif/else statement is the code associated with that particular part of the statement.:
 <img src="figures/IF.png" alt="if flow" width="600px"/>
 
 - The following are valid orders of statements. In both scenarios where elif is, as many elif statements can be there as desired.
