@@ -275,7 +275,7 @@ print("gene_list after reversing the list: ")
 print(gene_list)
 ```
 
-Here is a [list of functions and methods for lists](https://www.tutorialsteacher.com/python/list-methods).
+Here is a [list of functions and methods for lists](https://www.w3schools.com/python/python_lists_methods.asp).
 
 **PRACTICE**: Play with some list methods. Try out the "pop", "insert", and "sort" methods. Try to insert a new gene name in the middle of gene_list.
 
